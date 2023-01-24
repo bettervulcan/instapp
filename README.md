@@ -10,4 +10,5 @@ Mobilna wersja strony internetowej do ćwiczenia słówek.
 ## TODO:
 
 - Przypomnienia o dziennym wykonaniu sesji.
+- Wsparcie IOS.
 - w tym momencie to tyle pamiętam xD
