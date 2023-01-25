@@ -12,4 +12,5 @@ Mobilna wersja strony internetowej do ćwiczenia słówek.
 - Przypomnienia o dziennym wykonaniu sesji.
 - Wsparcie IOS.
 - Uzupełnianie głosem? Ćwiczenie akcentu?
+- Ograniczenie ilości kont / ew. scrollable
 - w tym momencie to tyle pamiętam xD
