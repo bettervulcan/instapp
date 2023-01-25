@@ -11,4 +11,5 @@ Mobilna wersja strony internetowej do ćwiczenia słówek.
 
 - Przypomnienia o dziennym wykonaniu sesji.
 - Wsparcie IOS.
+- Uzupełnianie głosem? Ćwiczenie akcentu?
 - w tym momencie to tyle pamiętam xD
