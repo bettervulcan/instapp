@@ -13,4 +13,5 @@ Mobilna wersja strony internetowej do ćwiczenia słówek.
 - Wsparcie IOS.
 - Uzupełnianie głosem? Ćwiczenie akcentu?
 - Ograniczenie ilości kont / ew. scrollable
+- Darkmode
 - w tym momencie to tyle pamiętam xD
