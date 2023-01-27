@@ -15,3 +15,6 @@ Mobilna wersja strony internetowej do ćwiczenia słówek.
 - Ograniczenie ilości kont / ew. scrollable
 - Darkmode
 - w tym momencie to tyle pamiętam xD
+
+## gh project
+https://github.com/orgs/bettervulcan/projects/1/views/1
