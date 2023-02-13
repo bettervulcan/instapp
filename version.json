@@ -3,5 +3,5 @@
 "versionCode": "7",
 "apkUrl": "https://github.com/bettervulcan/instapp/releases/download/v1.6/app-release.apk",
 "forceUpdate": true,
-"dev": true,
+"dev": true
 }
